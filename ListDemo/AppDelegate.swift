@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ListDemo
 //
-//  Created by Nafisa Rahman on 7/28/19.
+//  Created by Nafisa R on 7/28/19.
 //  Copyright © 2019 com.nafisa. All rights reserved.
 //
 
